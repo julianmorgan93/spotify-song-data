@@ -1,11 +1,12 @@
 
-# 🎵 Spotify Dashboard – Interactive Tableau Visualization
+# 🎵 Spotify Dashboard – Interactive Tableau Visualisation
 
 ## 📌 Short Description
-An interactive Tableau dashboard analysing Spotify data to explore **top tracks, artists, genres, and streaming trends**. Provides insights into music popularity and user listening behaviuor.
+An interactive Tableau dashboard analysing Spotify data to explore **top tracks, artists, genres, and streaming trends**. Provides insights into music popularity and user listening behaviour.
 
 🔗 **View my Dashboard:** [Spotify Dashboard](https://public.tableau.com/app/profile/vicentiu.iulian.murgan/viz/SpotifyTask/Dashboard1)
 
+[Dataset](https://drive.google.com/file/d/1RQjFLQR2SDL7JkNOolXGm3T0Z1DUH2kM/view?usp=drive_link)
 ---
 
 ## 🎯 Purpose
